@@ -7,7 +7,7 @@
 <div>👩🏻‍💻 Please contact me by email : jesimsim@gmail.com</div>
 
 
-### SNS List
+### SNS
 <a href="https://jesimsim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/jesimsim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
