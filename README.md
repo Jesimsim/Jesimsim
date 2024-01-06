@@ -1,9 +1,9 @@
-## Data Scientist Jieun Sim
+## Data Analyst Jieun Sim
 
 <div></div>
 
 
-<div>👋 Hi there! I'm aiming to Data scientist.</div>
+<div>👋 Hi there! I'm aiming to Data Analyst.</div>
 <div>👩🏻‍💻 Please contact me by email : jesimsim@gmail.com</div>
 
 
